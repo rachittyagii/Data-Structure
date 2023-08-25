@@ -19,5 +19,3 @@ for i in range(i,n):
     if a[i]<min:
         min=a[i]
         print("Max is",max,"and min is",min)
-
-       
