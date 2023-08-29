@@ -20,5 +20,4 @@ val=binary_search(a,start,end,key)
 if val==-1:
     print("Search unsuccesful")
 else:
-    print("Search succesful")
-    
+    print("Search succesful",val)
